@@ -1,7 +1,9 @@
-import java.util.Scanner;
+import java.util.Scanner; //scanner package
 /**
  * Partner Lab 2 Tester Program
- * @author Hellen Pacheco (main method)
+ * @author Richard Yang (isPalindrome and isAbecederian)
+ * @author Marcelo Cruz (isPangram and isCapitalizeLetter)
+ *
  */
 
 public class Main {
